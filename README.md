@@ -45,6 +45,6 @@ I am open to interesting projects and opportunities. My contact details are belo
 | | |
 |---|---|
 | 📧 Email | `fedorshibanow@mail.ru` |
-| 💬 Telegram | `@Ovsanky` |
+| 💬 Telegram | [Link](https://t.me/Ovsanky) |
 | 🎮 Discord | `fedorshibanov` |
-| 💼 hh.ru | [Profile](https://hh.ru/resume/59d3aaedff0d64a9a80039ed1f6e3569647537) |
+| 💼 hh.ru | [Link](https://hh.ru/resume/59d3aaedff0d64a9a80039ed1f6e3569647537) |
