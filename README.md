@@ -32,11 +32,19 @@ I am open to interesting projects and opportunities. My contact details are belo
 
 ## Projects
 
-| Project | Platform | Description | Stack |
-|---|---|---|---|
-| 🔫 **[ProjectName]** | Mobile / PC | [Short description — genre, core mechanic] | Unity, C#, Addressables |
-| 🧩 **[ProjectName]** | Mobile | [Short description] | Unity, UI Toolkit, DOTween |
-| 🤖 **[ProjectName]** | PC | [Game with AI enemies / behaviour trees] | Unity, BehaviourTree, NavMesh |
+**My Projects**
+
+| Project        | Platform | Stack                          |
+| -------------- | -------- | ------------------------------ |
+| **Snake Game** | PC       | Unity, C#, VContainer, DOTween |
+
+**Contributions & Game Jams**
+
+| Project | Platform | My Role |
+|--------|----------|---------|
+| [**Smash It**](https://play.google.com/store/apps/details?id=com.SapirGame.SmashIt&pli=1) | Android | Core gameplay, Polishing |
+| [**Pit Mine**](https://play.google.com/store/apps/details?id=com.sapirgame.pitmine&pli=1) | Android | Core gameplay, Polishing |
+| [**Nest Quest**](https://play.google.com/store/apps/details?id=com.sapirgame.nestquest) | Android | Core gameplay, Polishing |
 
 ---
 

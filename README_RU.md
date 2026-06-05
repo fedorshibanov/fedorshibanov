@@ -32,11 +32,19 @@
 
 ## Проекты
 
-| Проект | Платформа | Описание | Стек |
-|---|---|---|---|
-| 🔫 **[Название]** | Mobile / PC | [Короткое описание — жанр, основная механика] | Unity, C#, Addressables |
-| 🧩 **[Название]** | Mobile | [Короткое описание] | Unity, UI Toolkit, DOTween |
-| 🤖 **[Название]** | PC | [Игра с AI-противниками / деревьями поведения] | Unity, BehaviourTree, NavMesh |
+**Мои проекты**
+
+| Проект        | Платформа | Стек                          |
+| -------------- | -------- | ------------------------------ |
+| **Snake Game** | PC       | Unity, C#, VContainer, DOTween |
+
+**Участие и гейм-джемы**
+
+| Проекты | Платформа | Моя роль |
+|--------|----------|---------|
+| [**Smash It**](https://play.google.com/store/apps/details?id=com.SapirGame.SmashIt&pli=1) | Android | Core gameplay, Polishing |
+| [**Pit Mine**](https://play.google.com/store/apps/details?id=com.sapirgame.pitmine&pli=1) | Android | Core gameplay, Polishing |
+| [**Nest Quest**](https://play.google.com/store/apps/details?id=com.sapirgame.nestquest) | Android | Core gameplay, Polishing |
 
 ---
 
@@ -45,6 +53,6 @@
 | | |
 |---|---|
 | 📧 Email | `fedorshibanow@mail.ru` |
-| 💬 Telegram | `@Ovsanky` |
+| 💬 Telegram | [Link](https://t.me/Ovsanky) |
 | 🎮 Discord | `fedorshibanov` |
 | 💼 hh.ru | [Profile](https://hh.ru/resume/59d3aaedff0d64a9a80039ed1f6e3569647537) |
