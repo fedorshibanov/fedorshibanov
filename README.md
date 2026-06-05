@@ -1,4 +1,4 @@
-# Hi ![alt text](Hi.gif), I'm Fedor
+# Hi, <img src="Hi.gif" width="30px" /> I'm Fedor
 
 > 🇷🇺 [Читать на русском](./README_RU.md)
 

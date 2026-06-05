@@ -1,4 +1,4 @@
-# Привет ![alt text](Hi.gif), Я Фёдор
+# Привет, <img src="Hi.gif" width="30px"/> Я Фёдор
 
 > 🇬🇧 [Read in English](./README.md)
 
