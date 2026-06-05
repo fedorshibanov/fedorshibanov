@@ -36,7 +36,7 @@
 
 | Проект        | Платформа | Стек                          |
 | -------------- | -------- | ------------------------------ |
-| **Snake Game** | PC       | Unity, C#, VContainer, DOTween |
+| [**Snake Game**](https://github.com/fedorshibanov/SnakeGame) | PC | Unity, C#, VContainer, DOTween |
 
 **Участие и гейм-джемы**
 

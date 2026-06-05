@@ -36,7 +36,7 @@ I am open to interesting projects and opportunities. My contact details are belo
 
 | Project        | Platform | Stack                          |
 | -------------- | -------- | ------------------------------ |
-| **Snake Game** | PC       | Unity, C#, VContainer, DOTween |
+| [**Snake Game**](https://github.com/fedorshibanov/SnakeGame) | PC | Unity, C#, VContainer, DOTween |
 
 **Contributions & Game Jams**
 
