@@ -58,7 +58,7 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
 <table width="100%">
   <tr>
     <td width="47%" valign="top">
-      <table border="1" width="100%" cellpadding="12" cellspacing="0">
+      <table border="1" cellpadding="12" cellspacing="0" width="280">
         <tr><td align="center">
           <a href="https://store.steampowered.com/app/your_game_1" target="_blank">
             <img src="https://placehold.co/260x146/161b22/2ea043?text=Project+1" width="260" alt="Project 1" />
@@ -74,7 +74,7 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
     </td>
     <td width="6%"></td>
     <td width="47%" valign="top">
-      <table border="1" width="100%" cellpadding="12" cellspacing="0">
+      <table border="1" cellpadding="12" cellspacing="0" width="280">
         <tr><td align="center">
           <a href="https://store.steampowered.com/app/your_game_2" target="_blank">
             <img src="https://placehold.co/260x146/161b22/2ea043?text=Project+2" width="260" alt="Project 2" />
@@ -96,7 +96,7 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
 <table width="100%">
   <tr>
     <td width="47%" valign="top">
-      <table border="1" width="100%" cellpadding="12" cellspacing="0">
+      <table border="1" cellpadding="12" cellspacing="0" width="280">
         <tr><td align="center">
           <a href="https://github.com/fedorshibanov/your-repo-3" target="_blank">
             <img src="https://placehold.co/260x146/161b22/2ea043?text=Project+3" width="260" alt="Project 3" />
@@ -112,7 +112,7 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
     </td>
     <td width="6%"></td>
     <td width="47%" valign="top">
-      <table border="1" width="100%" cellpadding="12" cellspacing="0">
+      <table border="1" cellpadding="12" cellspacing="0" width="280">
         <tr><td align="center">
           <a href="https://github.com/fedorshibanov/your-repo-4" target="_blank">
             <img src="https://placehold.co/260x146/161b22/2ea043?text=Project+4" width="260" alt="Project 4" />
@@ -128,6 +128,7 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
     </td>
   </tr>
 </table>
+
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/fedorshibanov">fedorshibanov</a></i></p>
