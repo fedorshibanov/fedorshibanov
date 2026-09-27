@@ -53,5 +53,58 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=fedorshibanov&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+### 🎮 Portfolio
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://via.placeholder.com/100x100/2ea043/ffffff?text=Game+1" width="100" alt="Project 1" />
+    </td>
+    <td>
+      <b>Название проекта 1</b><br/>
+      <sub>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/PC-4285F4?style=flat-square&logoColor=white" alt="PC" />
+        <img src="https://img.shields.io/badge/Mobile-34A853?style=flat-square&logoColor=white" alt="Mobile" />
+      </sub><br/>
+      Роль: Unity Developer &nbsp;•&nbsp; Год: 2024<br/>
+      Краткое описание проекта — жанр, что делал, ключевые фичи.<br/>
+      <a href="#">▶️ Trailer/Store</a> &nbsp;|&nbsp; <a href="#">💻 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://via.placeholder.com/100x100/2ea043/ffffff?text=Game+2" width="100" alt="Project 2" />
+    </td>
+    <td>
+      <b>Название проекта 2</b><br/>
+      <sub>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" alt="iOS" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      </sub><br/>
+      Роль: Gameplay Programmer &nbsp;•&nbsp; Год: 2023<br/>
+      Краткое описание проекта — жанр, что делал, ключевые фичи.<br/>
+      <a href="#">▶️ Trailer/Store</a> &nbsp;|&nbsp; <a href="#">💻 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://via.placeholder.com/100x100/2ea043/ffffff?text=Game+3" width="100" alt="Project 3" />
+    </td>
+    <td>
+      <b>Название проекта 3 (Indie)</b><br/>
+      <sub>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam" />
+      </sub><br/>
+      Роль: Solo Developer &nbsp;•&nbsp; Год: 2022<br/>
+      Краткое описание проекта — жанр, что делал, ключевые фичи.<br/>
+      <a href="#">▶️ Trailer/Store</a> &nbsp;|&nbsp; <a href="#">💻 GitHub</a>
+    </td>
+  </tr>
+</table>
+
+
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/fedorshibanov">fedorshibanov</a></i></p>
