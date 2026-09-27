@@ -57,50 +57,43 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
 
 <table>
   <tr>
-    <td width="120" align="center">
-      <img src="https://via.placeholder.com/100x100/2ea043/ffffff?text=Game+1" width="100" alt="Project 1" />
+    <td width="50%" align="center">
+      <a href="https://store.steampowered.com/app/your_game_1" target="_blank">
+        <img src="https://via.placeholder.com/400x220/161b22/2ea043?text=Project+1" width="100%" alt="Project 1" style="border-radius:8px;" />
+        <br/>
+        <b>Название проекта 1</b>
+        <br/>
+        <sub>Unity • PC / Mobile • 2024</sub>
+      </a>
     </td>
-    <td>
-      <b>Название проекта 1</b><br/>
-      <sub>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-        <img src="https://img.shields.io/badge/PC-4285F4?style=flat-square&logoColor=white" alt="PC" />
-        <img src="https://img.shields.io/badge/Mobile-34A853?style=flat-square&logoColor=white" alt="Mobile" />
-      </sub><br/>
-      Роль: Unity Developer &nbsp;•&nbsp; Год: 2024<br/>
-      Краткое описание проекта — жанр, что делал, ключевые фичи.<br/>
-      <a href="#">▶️ Trailer/Store</a> &nbsp;|&nbsp; <a href="#">💻 GitHub</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://via.placeholder.com/100x100/2ea043/ffffff?text=Game+2" width="100" alt="Project 2" />
-    </td>
-    <td>
-      <b>Название проекта 2</b><br/>
-      <sub>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" alt="iOS" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-      </sub><br/>
-      Роль: Gameplay Programmer &nbsp;•&nbsp; Год: 2023<br/>
-      Краткое описание проекта — жанр, что делал, ключевые фичи.<br/>
-      <a href="#">▶️ Trailer/Store</a> &nbsp;|&nbsp; <a href="#">💻 GitHub</a>
+    <td width="50%" align="center">
+      <a href="https://store.steampowered.com/app/your_game_2" target="_blank">
+        <img src="https://via.placeholder.com/400x220/161b22/2ea043?text=Project+2" width="100%" alt="Project 2" style="border-radius:8px;" />
+        <br/>
+        <b>Название проекта 2</b>
+        <br/>
+        <sub>Unity • iOS / Android • 2023</sub>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="120" align="center">
-      <img src="https://via.placeholder.com/100x100/2ea043/ffffff?text=Game+3" width="100" alt="Project 3" />
+    <td width="50%" align="center">
+      <a href="https://github.com/fedorshibanov/your-repo-3" target="_blank">
+        <img src="https://via.placeholder.com/400x220/161b22/2ea043?text=Project+3" width="100%" alt="Project 3" style="border-radius:8px;" />
+        <br/>
+        <b>Название проекта 3 (Indie)</b>
+        <br/>
+        <sub>Unity • Steam • 2022</sub>
+      </a>
     </td>
-    <td>
-      <b>Название проекта 3 (Indie)</b><br/>
-      <sub>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-        <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam" />
-      </sub><br/>
-      Роль: Solo Developer &nbsp;•&nbsp; Год: 2022<br/>
-      Краткое описание проекта — жанр, что делал, ключевые фичи.<br/>
-      <a href="#">▶️ Trailer/Store</a> &nbsp;|&nbsp; <a href="#">💻 GitHub</a>
+    <td width="50%" align="center">
+      <a href="https://github.com/fedorshibanov/your-repo-4" target="_blank">
+        <img src="https://via.placeholder.com/400x220/161b22/2ea043?text=Project+4" width="100%" alt="Project 4" style="border-radius:8px;" />
+        <br/>
+        <b>Название проекта 4</b>
+        <br/>
+        <sub>Unity • PC • 2021</sub>
+      </a>
     </td>
   </tr>
 </table>
