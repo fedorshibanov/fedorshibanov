@@ -12,6 +12,7 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
@@ -25,27 +26,18 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
 ### 🎮 Game Dev Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Zenject-6C4AB6?style=for-the-badge&logoColor=white" alt="Zenject" />
   <img src="https://img.shields.io/badge/VContainer-3B82F6?style=for-the-badge&logoColor=white" alt="VContainer" />
   <img src="https://img.shields.io/badge/DOTween-EF476F?style=for-the-badge&logoColor=white" alt="DOTween" />
   <img src="https://img.shields.io/badge/UniTask-06D6A0?style=for-the-badge&logoColor=white" alt="UniTask" />
-  <img src="https://img.shields.io/badge/Addressables-118AB2?style=for-the-badge&logoColor=white" alt="Addressables" />
-  <img src="https://img.shields.io/badge/Unity%20ECS%2FDOTS-073B4C?style=for-the-badge&logoColor=white" alt="Unity ECS/DOTS" />
-  <img src="https://img.shields.io/badge/Photon-FF6D00?style=for-the-badge&logoColor=white" alt="Photon" />
-  <img src="https://img.shields.io/badge/Mirror-8338EC?style=for-the-badge&logoColor=white" alt="Mirror Networking" />
-  <img src="https://img.shields.io/badge/Odin%20Inspector-FFB703?style=for-the-badge&logoColor=black" alt="Odin Inspector" />
-  <img src="https://img.shields.io/badge/Newtonsoft.Json-2B2D42?style=for-the-badge&logoColor=white" alt="Newtonsoft.Json" />
-  <img src="https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logoColor=white" alt="FMOD" />
 </p>
 
 ### 🔗 Connect With Me
 
 <p align="left">
   <a href="mailto:fedorshibanow@mail.ru"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://hh.ru/resume/your_resume_id"><img src="https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logoColor=white" alt="hh.ru" /></a>
+  <a href="https://t.me/Ovsanky"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://hh.ru/resume/59d3aaedff0d64a9a80039ed1f6e3569647537?hhtmFrom=applicant_profile"><img src="https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logoColor=white" alt="hh.ru" /></a>
 </p>
 
 ### 📊 GitHub Stats
