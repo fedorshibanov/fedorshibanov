@@ -48,7 +48,7 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
 </p>
 
 ### 🎯 Projects
-
+<!-- 
 <table>
   <tr>
     <td align="center" valign="top">
@@ -90,7 +90,7 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
       <sub>Короткое описание проекта в одну-две строки.</sub>
     </td>
   </tr>
-</table>
+</table> -->
 
 ### 📈 Contribution Graph
 
