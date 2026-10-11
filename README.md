@@ -47,6 +47,51 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=fedorshibanov&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+### 🎯 Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/fedorshibanov/PROJECT_1">
+        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project1.png" width="100%" alt="Project 1" />
+        <br />
+        <b>Project 1</b>
+        <br />
+        <sub>Короткое описание проекта в одну-две строки.</sub>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/fedorshibanov/PROJECT_2">
+        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project2.png" width="100%" alt="Project 2" />
+        <br />
+        <b>Project 2</b>
+        <br />
+        <sub>Короткое описание проекта в одну-две строки.</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://example.com/project3">
+        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project3.png" width="100%" alt="Project 3" />
+        <br />
+        <b>Project 3</b>
+        <br />
+        <sub>Короткое описание проекта в одну-две строки.</sub>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://example.com/project4">
+        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project4.png" width="100%" alt="Project 4" />
+        <br />
+        <b>Project 4</b>
+        <br />
+        <sub>Короткое описание проекта в одну-две строки.</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### 📈 Contribution Graph
 
 <p align="center">
