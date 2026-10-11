@@ -49,45 +49,45 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
 
 ### 🎯 Projects
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://github.com/fedorshibanov/PROJECT_1">
-        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project1.png" width="100%" alt="Project 1" />
-        <br />
-        <b>Project 1</b>
-        <br />
-        <sub>Короткое описание проекта в одну-две строки.</sub>
+        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project1.png" width="420" alt="Project 1" />
       </a>
+      <br />
+      <a href="https://github.com/fedorshibanov/PROJECT_1"><b>Project 1</b></a>
+      <br />
+      <sub>Короткое описание проекта в одну-две строки.</sub>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://github.com/fedorshibanov/PROJECT_2">
-        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project2.png" width="100%" alt="Project 2" />
-        <br />
-        <b>Project 2</b>
-        <br />
-        <sub>Короткое описание проекта в одну-две строки.</sub>
+        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project2.png" width="420" alt="Project 2" />
       </a>
+      <br />
+      <a href="https://github.com/fedorshibanov/PROJECT_2"><b>Project 2</b></a>
+      <br />
+      <sub>Короткое описание проекта в одну-две строки.</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://example.com/project3">
-        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project3.png" width="100%" alt="Project 3" />
-        <br />
-        <b>Project 3</b>
-        <br />
-        <sub>Короткое описание проекта в одну-две строки.</sub>
+        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project3.png" width="420" alt="Project 3" />
       </a>
+      <br />
+      <a href="https://example.com/project3"><b>Project 3</b></a>
+      <br />
+      <sub>Короткое описание проекта в одну-две строки.</sub>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://example.com/project4">
-        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project4.png" width="100%" alt="Project 4" />
-        <br />
-        <b>Project 4</b>
-        <br />
-        <sub>Короткое описание проекта в одну-две строки.</sub>
+        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project4.png" width="420" alt="Project 4" />
       </a>
+      <br />
+      <a href="https://example.com/project4"><b>Project 4</b></a>
+      <br />
+      <sub>Короткое описание проекта в одну-две строки.</sub>
     </td>
   </tr>
 </table>
