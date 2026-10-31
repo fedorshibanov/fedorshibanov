@@ -55,28 +55,31 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
 ### 🎯 Projects
 
 <!--
-Скопируйте блок <p>...</p> для нового проекта.
-Замените href на ссылку проекта, src на путь к картинке,
-а текст в <strong> и alt — на название.
-Обложки храните в assets/projects/. Оставьте width="100%" без фиксированной высоты.
+Скопируйте <tr>...</tr> для следующего ряда из двух карточек.
+Замените href на ссылку проекта, alt — на название.
+Название внутри карточки меняется в <text> соответствующего SVG в assets/projects/.
+Для своей обложки добавьте <image width="600" height="360"
+href="data:image/png;base64,BASE64_ВАШЕЙ_КАРТИНКИ" preserveAspectRatio="xMidYMid slice" />
+в SVG сразу после фонового <rect>, перед затемнением и текстом.
+Картинку нужно встроить: внешние изображения внутри SVG могут не отображаться.
+Сохраняйте width="100%" у картинок и width="50%" у ячеек без фиксированной высоты.
 PROJECT_1 и PROJECT_2 — шаблоны: замените ссылки перед публикацией.
 -->
 
-<p align="center">
-  <a href="https://github.com/fedorshibanov/PROJECT_1">
-    <img src="assets/projects/placeholder.svg" width="100%" alt="Project 1" />
-    <br />
-    <strong>Project 1 ↗</strong>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fedorshibanov/PROJECT_2">
-    <img src="assets/projects/placeholder.svg" width="100%" alt="Project 2" />
-    <br />
-    <strong>Project 2 ↗</strong>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/fedorshibanov/PROJECT_1">
+        <img src="assets/projects/project-1.svg" width="100%" alt="Project 1" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/fedorshibanov/PROJECT_2">
+        <img src="assets/projects/project-2.svg" width="100%" alt="Project 2" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/fedorshibanov">fedorshibanov</a></i></p>

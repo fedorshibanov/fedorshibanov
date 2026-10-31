@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" fill="none">
+  <defs>
+    <clipPath id="card"><rect width="600" height="360" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="600" height="360" fill="#161b22"/>
+    <rect x="270" y="118" width="60" height="52" rx="8" stroke="#8b949e" stroke-width="2"/>
+    <circle cx="287" cy="135" r="5" fill="#2ea043"/>
+    <path d="m271 160 17-16 14 13 11-10 16 17" stroke="#8b949e" stroke-width="2"/>
+    <rect y="268" width="600" height="92" fill="#000" fill-opacity="0.6"/>
+    <text x="28" y="324" fill="#fff" font-family="Arial, sans-serif" font-size="30" font-weight="600">Project 2</text>
+    <path d="M549 319h20m-12-12 12 12-12 12" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
