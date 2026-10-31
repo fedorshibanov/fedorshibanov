@@ -46,55 +46,36 @@ Hi! 👋 I am a Unity Developer with 4 years of experience in game development. 
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=fedorshibanov&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=fedorshibanov&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
-<!-- 
-### 🎯 Projects
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github.com/fedorshibanov/PROJECT_1">
-        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project1.png" width="420" alt="Project 1" />
-      </a>
-      <br />
-      <a href="https://github.com/fedorshibanov/PROJECT_1"><b>Project 1</b></a>
-      <br />
-      <sub>Короткое описание проекта в одну-две строки.</sub>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/fedorshibanov/PROJECT_2">
-        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project2.png" width="420" alt="Project 2" />
-      </a>
-      <br />
-      <a href="https://github.com/fedorshibanov/PROJECT_2"><b>Project 2</b></a>
-      <br />
-      <sub>Короткое описание проекта в одну-две строки.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://example.com/project3">
-        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project3.png" width="420" alt="Project 3" />
-      </a>
-      <br />
-      <a href="https://example.com/project3"><b>Project 3</b></a>
-      <br />
-      <sub>Короткое описание проекта в одну-две строки.</sub>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://example.com/project4">
-        <img src="https://raw.githubusercontent.com/fedorshibanov/fedorshibanov/main/assets/project4.png" width="420" alt="Project 4" />
-      </a>
-      <br />
-      <a href="https://example.com/project4"><b>Project 4</b></a>
-      <br />
-      <sub>Короткое описание проекта в одну-две строки.</sub>
-    </td>
-  </tr>
-</table> -->
-
 ### 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=fedorshibanov&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 🎯 Projects
+
+<!--
+Скопируйте блок <p>...</p> для нового проекта.
+Замените href на ссылку проекта, src на путь к картинке,
+а текст в <strong> и alt — на название.
+Обложки храните в assets/projects/. Оставьте width="100%" без фиксированной высоты.
+PROJECT_1 и PROJECT_2 — шаблоны: замените ссылки перед публикацией.
+-->
+
+<p align="center">
+  <a href="https://github.com/fedorshibanov/PROJECT_1">
+    <img src="assets/projects/placeholder.svg" width="100%" alt="Project 1" />
+    <br />
+    <strong>Project 1 ↗</strong>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fedorshibanov/PROJECT_2">
+    <img src="assets/projects/placeholder.svg" width="100%" alt="Project 2" />
+    <br />
+    <strong>Project 2 ↗</strong>
+  </a>
 </p>
 
 ---
